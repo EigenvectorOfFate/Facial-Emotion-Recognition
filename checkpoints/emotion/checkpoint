@@ -1,0 +1,6 @@
+model_checkpoint_path: "TFD-convnet-15834"
+all_model_checkpoint_paths: "TFD-convnet-13650"
+all_model_checkpoint_paths: "TFD-convnet-14196"
+all_model_checkpoint_paths: "TFD-convnet-14742"
+all_model_checkpoint_paths: "TFD-convnet-15288"
+all_model_checkpoint_paths: "TFD-convnet-15834"
